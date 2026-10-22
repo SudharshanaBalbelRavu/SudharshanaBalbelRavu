@@ -7,7 +7,7 @@ I've spent 7+ years with enterprise clients across SaaS, EdTech and pharma IT, o
 🌐 **Portfolio:** [sudharshanabalbelravu.github.io](https://sudharshanabalbelravu.github.io) · 💼 [LinkedIn](https://linkedin.com/in/sudharshana-balbel-ravi)
 
 #### Featured work
-- **[Production tracking app for a garment exporter](https://sudharshanabalbelravu.github.io/production-app.html)**: replaced a status spreadsheet with an app built around each person's role, covering cutting through packing, outsourcing and mixed-style cartons. Built with Next.js, Supabase/Postgres and row-level security, at $0/month to host.
+- **[Real-time production visibility for a garment exporter](https://sudharshanabalbelravu.github.io/production-app.html)**: gave the factory owner a live view of every order, early warning on losses, and control over outsourced work, at $0/month. I built the app using AI.
 - **Retail profitability analysis** (IIT Madras capstone): time-series, ABC and correlation analysis on live sales data
 - **Auction price prediction** (Kaggle): XGBoost, LightGBM and CatBoost ensemble with 5-fold cross-validation
 
